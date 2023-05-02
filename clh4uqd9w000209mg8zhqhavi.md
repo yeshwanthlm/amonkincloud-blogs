@@ -49,16 +49,16 @@ Here are the steps to host a static website on Azure and implement CI/CD:
     * Refer to this Documentation for more details on how to setup CICD: [https://learn.microsoft.com/en-us/azure/storage/blobs/storage-blobs-static-site-github-actions?tabs=userlevel](https://learn.microsoft.com/en-us/azure/storage/blobs/storage-blobs-static-site-github-actions?tabs=userlevel)
         
 
-GitHub Repo: [https://github.com/yeshwanthlm/Static-Webhosting-Azure](https://github.com/yeshwanthlm/Static-Webhosting-Azure)
+GitHub Repo: [https://github.com/yeshwanthlm/Static-Webhosting-On-Azure-CICD](https://github.com/yeshwanthlm/Static-Webhosting-On-Azure-CICD)
 
 That's it! You have successfully hosted your static website on Azure and Implemented CI/CD for your website.
 
-Follow our tutorials here: [https://www.youtube.com/@amonkincloud/videos](https://www.youtube.com/@amonkincloud/videos)
+*Follow our tutorials here:* [*https://www.youtube.com/@amonkincloud/videos*](https://www.youtube.com/@amonkincloud/videos)
 
-Follow our GitHub here: [https://github.com/yeshwanthlm](https://github.com/yeshwanthlm)
+*Follow our GitHub here:* [*https://github.com/yeshwanthlm*](https://github.com/yeshwanthlm)
 
-Follow our blog here: [https://amonkincloud.com/](https://amonkincloud.com/)
+*Follow our blog here:* [*https://amonkincloud.com/*](https://amonkincloud.com/)
 
-Follow my personal blog here:[https://dev.to/yeshwanthlm/](https://dev.to/yeshwanthlm/)
+*Follow my blog here:*[*https://dev.to/yeshwanthlm/*](https://dev.to/yeshwanthlm/)
 
-Follow us on Instagram: [https://www.instagram.com/amonkincloud/](https://www.instagram.com/amonkincloud/)
+*Follow us on Instagram:* [*https://www.instagram.com/amonkincloud/*](https://www.instagram.com/amonkincloud/)
